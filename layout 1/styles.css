@@ -1,0 +1,31 @@
+.container{
+    border: 2px solid gray;
+    width: 1000px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    align-items: center;
+}
+
+.box{
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+
+   
+    
+}
+.box-wrapper{
+display: flex;
+align-items: center;
+}
+
+
+.box-small {
+    border: 2px solid blue;
+    height: 50px;
+    width: 50px ;
+    margin-left: 25px;
+
+}
